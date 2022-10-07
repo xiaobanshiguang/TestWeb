@@ -18,6 +18,7 @@
 <a href="newsServlet?id=2">新闻2</a>
 <a href="newsServlet?id=3">新闻3</a>
 <a href="newsServlet?id=4">新闻4</a>
+<a href="newsServlet?id=5">新闻5</a>
 
 </body>
 </html>
